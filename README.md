@@ -20,6 +20,7 @@ A Flutter application to view current weather status.
 ## Getting Started
 
 
+
 ### Prerequisites
 **Flutter**
 - [Flutter documentation](https://flutter.dev/docs)
