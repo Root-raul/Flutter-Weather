@@ -21,6 +21,7 @@ class SimpleBlocDelegate extends BlocDelegate {
   }
 }
 
+
 class WeatherApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
