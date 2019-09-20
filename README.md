@@ -25,7 +25,6 @@ A Flutter application to view current weather status.
 **Flutter**
 
 
-
 ### Installing
 
 **API Key**
