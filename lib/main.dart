@@ -12,6 +12,8 @@ void main() {
   runApp(AppStateContainer(child: WeatherApp()));
 }
 
+// Coded By Raj Chowdhury
+
 class SimpleBlocDelegate extends BlocDelegate {
   @override
   onTransition(Bloc bloc, Transition transition) {
