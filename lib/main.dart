@@ -117,3 +117,4 @@ class _InheritedStateContainer extends InheritedWidget {
   @override
   bool updateShouldNotify(_InheritedStateContainer oldWidget) => true;
 }
+
