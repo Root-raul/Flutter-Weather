@@ -7,6 +7,7 @@ import 'package:flutter_weather/src/utils/constants.dart';
 import 'package:flutter_weather/src/utils/converters.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+
 void main() {
   BlocSupervisor().delegate = SimpleBlocDelegate();
   runApp(AppStateContainer(child: WeatherApp()));
