@@ -1,4 +1,8 @@
+
+# Download The App From [Here](https://bit.ly/2JJZdAV)
+
 # Flutter Weather
+
  <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 A Flutter application to view current weather status.
 
@@ -39,8 +43,6 @@ eg:
   ```
 
 
-
-# Download The App From Here : - https://bit.ly/2JJZdAV
 
 
 ## Acknowledgments
