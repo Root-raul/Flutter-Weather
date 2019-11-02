@@ -40,6 +40,9 @@ eg:
 
 
 
+# Download The App From Here : - http://www.mediafire.com/file/v9gi3u3v5wydi9t/Weather.apk/file
+
+
 ## Acknowledgments
 
 * [Weather Icon Pack](https://erikflowers.github.io/weather-icons/)
