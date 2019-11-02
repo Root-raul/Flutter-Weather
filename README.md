@@ -40,7 +40,7 @@ eg:
 
 
 
-# Download The App From Here : - http://www.mediafire.com/file/v9gi3u3v5wydi9t/Weather.apk/file
+# Download The App From Here : - https://bit.ly/2JJZdAV
 
 
 ## Acknowledgments
